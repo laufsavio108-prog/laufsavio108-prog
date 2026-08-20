@@ -27,7 +27,7 @@ Sigo um roadmap próprio de 12 meses rumo a **Cloud & Security Engineer**. Etapa
 
 | Projeto | O que é |
 | --- | --- |
-| **[linux-labs](https://github.com/saviolauf/linux-labs)** | Labs práticos de Linux/Git documentados durante o roadmap — meu caderno de estudo público. |
+| **[linux-labs](https://github.com/laufsavioprog-108/linux-labs)** | Labs práticos de Linux/Git documentados durante o roadmap — meu caderno de estudo público. |
 | **THORN** | Copiloto de infraestrutura e segurança (Python + FastAPI). Plataforma modular com memória por ambiente. |
 | **AI Code Guardian** | Auditor de segurança para código gerado por IA (Next.js + Supabase): RLS, service_role exposta, rotas sem auth, secrets. |
 
@@ -56,8 +56,8 @@ Sigo um roadmap próprio de 12 meses rumo a **Cloud & Security Engineer**. Etapa
 ### 📊 GitHub
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saviolauf&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviolauf&layout=compact&hide_border=true&theme=dark" alt="top langs">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=laufsavioprog-108&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laufsavioprog-108&layout=compact&hide_border=true&theme=dark" alt="top langs">
 </p>
 
 ---

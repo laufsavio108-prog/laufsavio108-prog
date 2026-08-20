@@ -54,15 +54,6 @@ Sigo um roadmap próprio de 12 meses rumo a **Cloud & Security Engineer**. Etapa
 
 ---
 
-### 📊 GitHub
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=laufsavio108-prog&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laufsavio108-prog&layout=compact&hide_border=true&theme=dark" alt="top langs">
-</p>
-
----
-
 ### 📫 Contato
 
 - 📧 laufsavio108@gmail.com

@@ -28,8 +28,9 @@ Sigo um roadmap próprio de 12 meses rumo a **Cloud & Security Engineer**. Etapa
 | Projeto | O que é |
 | --- | --- |
 | **[linux-labs](https://github.com/laufsavio108-prog/linux-labs)** | Labs práticos de Linux/Git documentados durante o roadmap — meu caderno de estudo público. |
-| **THORN** | Copiloto de infraestrutura e segurança (Python + FastAPI). Plataforma modular com memória por ambiente. |
-| **AI Code Guardian** | Auditor de segurança para código gerado por IA (Next.js + Supabase): RLS, service_role exposta, rotas sem auth, secrets. |
+| **[networking-lab](https://github.com/laufsavio108-prog/networking-lab)** | Laboratórios de redes — fundamentos que sustentam segurança de infraestrutura. |
+| **[secure-docker-stack](https://github.com/laufsavio108-prog/secure-docker-stack)** | Stack Docker com foco em hardening e boas práticas de segurança de containers. |
+| **[THORN](https://github.com/laufsavio108-prog/THORN-)** | Copiloto de infraestrutura e segurança (Python + FastAPI). Plataforma modular com memória por ambiente. |
 
 ---
 

@@ -17,7 +17,7 @@
 
 ### 🔐 Certificações
 
-Credenciais verificadas no **Credly** (emissor **Cisco Networking Academy**) — clique para validar:
+Credenciais verificadas no **Credly** — clique para validar:
 
 <p align="left">
   <a href="https://www.credly.com/badges/5cf4c4f1-74d4-4393-99ef-aee9ecdd16e7/public_url" title="Cybersecurity Fundamentals">
@@ -30,6 +30,10 @@ Credenciais verificadas no **Credly** (emissor **Cisco Networking Academy**) —
   &nbsp;
   <a href="https://www.credly.com/badges/1026f24a-969b-4812-9a6a-4581a4025e03/public_url" title="Security and Connectivity Support">
     <img src="https://images.credly.com/size/110x110/images/a42c5fcd-6617-429c-b4a9-8805310e0b10/blob" width="100" alt="Security and Connectivity Support">
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/3e8c001d-a449-4294-9866-9079a6ae8250/public_url" title="Governance, Risk, Compliance, and Data Privacy — IBM SkillsBuild">
+    <img src="https://images.credly.com/size/110x110/images/5d324f5d-18fa-43ee-8321-be88763c9e14/image.png" width="100" alt="Governance, Risk, Compliance, and Data Privacy">
   </a>
 </p>
 

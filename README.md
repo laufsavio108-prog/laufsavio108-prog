@@ -15,6 +15,26 @@
 
 ---
 
+### 🔐 Certificações
+
+Credenciais verificadas no **Credly** (emissor **Cisco Networking Academy**) — clique para validar:
+
+<p align="left">
+  <a href="https://www.credly.com/badges/5cf4c4f1-74d4-4393-99ef-aee9ecdd16e7/public_url" title="Cybersecurity Fundamentals">
+    <img src="https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" width="100" alt="Cybersecurity Fundamentals">
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/a1b0c788-f501-470a-afc3-e037514a5028/public_url" title="Introduction to Cybersecurity">
+    <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" alt="Introduction to Cybersecurity">
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/1026f24a-969b-4812-9a6a-4581a4025e03/public_url" title="Security and Connectivity Support">
+    <img src="https://images.credly.com/size/110x110/images/a42c5fcd-6617-429c-b4a9-8805310e0b10/blob" width="100" alt="Security and Connectivity Support">
+  </a>
+</p>
+
+---
+
 ### 🎯 O que estou fazendo agora
 
 Sigo um roadmap próprio de 12 meses rumo a **SOC Analyst / Blue Team**. Base concluída (Linux, Redes, Docker) e agora na especialização defensiva: logs, detecção e caça a ameaças — tudo praticado em labs e documentado.

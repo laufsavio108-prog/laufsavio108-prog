@@ -17,25 +17,39 @@
 
 ### 🔐 Certificações
 
-Credenciais verificadas no **Credly** — clique para validar:
+Credenciais verificadas no **Credly** — clique em qualquer badge para validar.
+
+**Cisco Networking Academy**
 
 <p align="left">
-  <a href="https://www.credly.com/badges/5cf4c4f1-74d4-4393-99ef-aee9ecdd16e7/public_url" title="Cybersecurity Fundamentals">
-    <img src="https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" width="100" alt="Cybersecurity Fundamentals">
-  </a>
-  &nbsp;
-  <a href="https://www.credly.com/badges/a1b0c788-f501-470a-afc3-e037514a5028/public_url" title="Introduction to Cybersecurity">
+  <a href="https://www.credly.com/badges/a1b0c788-f501-470a-afc3-e037514a5028/public_url" title="Introduction to Cybersecurity — Cisco Networking Academy">
     <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" alt="Introduction to Cybersecurity">
   </a>
   &nbsp;
-  <a href="https://www.credly.com/badges/1026f24a-969b-4812-9a6a-4581a4025e03/public_url" title="Security and Connectivity Support">
+  <a href="https://www.credly.com/badges/1026f24a-969b-4812-9a6a-4581a4025e03/public_url" title="Security and Connectivity Support — Cisco Networking Academy">
     <img src="https://images.credly.com/size/110x110/images/a42c5fcd-6617-429c-b4a9-8805310e0b10/blob" width="100" alt="Security and Connectivity Support">
+  </a>
+</p>
+
+**IBM SkillsBuild**
+
+<p align="left">
+  <a href="https://www.credly.com/badges/5cf4c4f1-74d4-4393-99ef-aee9ecdd16e7/public_url" title="Cybersecurity Fundamentals — IBM SkillsBuild">
+    <img src="https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" width="100" alt="Cybersecurity Fundamentals">
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/377bbd02-1ab7-461e-855a-9c70c58203f3/public_url" title="Vulnerability Management — IBM SkillsBuild">
+    <img src="https://images.credly.com/size/110x110/images/2fdda845-70ac-493d-9f37-533773d63be0/image.png" width="100" alt="Vulnerability Management">
   </a>
   &nbsp;
   <a href="https://www.credly.com/badges/3e8c001d-a449-4294-9866-9079a6ae8250/public_url" title="Governance, Risk, Compliance, and Data Privacy — IBM SkillsBuild">
     <img src="https://images.credly.com/size/110x110/images/5d324f5d-18fa-43ee-8321-be88763c9e14/image.png" width="100" alt="Governance, Risk, Compliance, and Data Privacy">
   </a>
-  &nbsp;
+</p>
+
+**The Linux Foundation**
+
+<p align="left">
   <a href="https://www.credly.com/badges/1fbab66a-1daa-45ba-977f-f44938b9bde6/public_url" title="LFC108: Cybersecurity Essentials — The Linux Foundation">
     <img src="https://images.credly.com/size/110x110/images/e79f9317-b3f7-4b57-a859-f24d5f25fe36/blob" width="100" alt="LFC108: Cybersecurity Essentials">
   </a>

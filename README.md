@@ -35,6 +35,10 @@ Credenciais verificadas no **Credly** — clique para validar:
   <a href="https://www.credly.com/badges/3e8c001d-a449-4294-9866-9079a6ae8250/public_url" title="Governance, Risk, Compliance, and Data Privacy — IBM SkillsBuild">
     <img src="https://images.credly.com/size/110x110/images/5d324f5d-18fa-43ee-8321-be88763c9e14/image.png" width="100" alt="Governance, Risk, Compliance, and Data Privacy">
   </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/1fbab66a-1daa-45ba-977f-f44938b9bde6/public_url" title="LFC108: Cybersecurity Essentials — The Linux Foundation">
+    <img src="https://images.credly.com/size/110x110/images/e79f9317-b3f7-4b57-a859-f24d5f25fe36/blob" width="100" alt="LFC108: Cybersecurity Essentials">
+  </a>
 </p>
 
 ---

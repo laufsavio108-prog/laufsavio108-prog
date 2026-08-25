@@ -42,6 +42,10 @@ Credenciais verificadas no **Credly** — clique em qualquer badge para validar.
     <img src="https://images.credly.com/size/110x110/images/2fdda845-70ac-493d-9f37-533773d63be0/image.png" width="100" alt="Vulnerability Management">
   </a>
   &nbsp;
+  <a href="https://www.credly.com/badges/f07646a0-b26b-47ee-bc6e-72eceb844445/public_url" title="System and Network Security — IBM SkillsBuild">
+    <img src="https://images.credly.com/size/110x110/images/82e061d5-ce91-403d-8078-f213fd03ac62/image.png" width="100" alt="System and Network Security">
+  </a>
+  &nbsp;
   <a href="https://www.credly.com/badges/3e8c001d-a449-4294-9866-9079a6ae8250/public_url" title="Governance, Risk, Compliance, and Data Privacy — IBM SkillsBuild">
     <img src="https://images.credly.com/size/110x110/images/5d324f5d-18fa-43ee-8321-be88763c9e14/image.png" width="100" alt="Governance, Risk, Compliance, and Data Privacy">
   </a>

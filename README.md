@@ -61,6 +61,14 @@ Credenciais verificadas no **Credly** — clique em qualquer badge para validar.
 
 ---
 
+### 🧪 Labs & Prática Hands-on
+
+Praticando ataque e defesa em labs reais — salas, rank e badges no meu perfil público:
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-saviolauf-C11414?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/saviolauf)
+
+---
+
 ### 🎯 O que estou fazendo agora
 
 Sigo um roadmap próprio de 12 meses rumo a **SOC Analyst / Blue Team**. Base concluída (Linux, Redes, Docker) e agora na especialização defensiva: logs, detecção e caça a ameaças — tudo praticado em labs e documentado.

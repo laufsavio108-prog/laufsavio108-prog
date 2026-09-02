@@ -67,8 +67,9 @@ Praticando ataque e defesa em labs reais — **82 salas concluídas**, 16 badges
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-AlarioN.exe-C11414?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AlarioN.exe)
 [![Pre Security](https://img.shields.io/badge/Pre%20Security-Learning%20Path-88CC14?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/certificate/THM-EGJFW5KLYG)
+[![Cyber Security 101](https://img.shields.io/badge/Cyber%20Security%20101-Learning%20Path-88CC14?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/certificate/THM-LXWVAUEHWU)
 
-Trilha **Pre Security** concluída em 02/09/2026 — 7 módulos e 31 labs hands-on ([certificado verificável](https://tryhackme.com/certificate/THM-EGJFW5KLYG)).
+Trilhas concluídas em 02/09/2026 — **Pre Security** (7 módulos, 31 labs) e **Cyber Security 101** (14 módulos, 56 labs, 45h). Cada badge abre o certificado verificável.
 
 ---
 

@@ -63,9 +63,12 @@ Credenciais verificadas no **Credly** — clique em qualquer badge para validar.
 
 ### 🧪 Labs & Prática Hands-on
 
-Praticando ataque e defesa em labs reais — salas, rank e badges no meu perfil público:
+Praticando ataque e defesa em labs reais — **82 salas concluídas**, 16 badges e **top 7% global**:
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-saviolauf-C11414?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/saviolauf)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-AlarioN.exe-C11414?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AlarioN.exe)
+[![Pre Security](https://img.shields.io/badge/Pre%20Security-Learning%20Path-88CC14?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/certificate/THM-EGJFW5KLYG)
+
+Trilha **Pre Security** concluída em 02/09/2026 — 7 módulos e 31 labs hands-on ([certificado verificável](https://tryhackme.com/certificate/THM-EGJFW5KLYG)).
 
 ---
 
